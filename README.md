@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jake 👋
 
-<!--
-**jakedewar/jakedewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product-minded software builder focused on turning practical ideas into polished web products. I care about clear interfaces, thoughtful details, and tools that make complex work feel simpler.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Currently](https://currently.team)** — AI-powered project context for development and product teams, turning GitHub activity into useful project briefings.
+- **[Dewar Guitars](https://github.com/jakedewar/dewar_guitars)** — a modern, responsive site for custom guitar craftsmanship and repair.
+- **[Opptics](https://github.com/jakedewar/opptics-extension)** — browser tooling and embeddable widgets for understanding digital experiences.
+
+## Tools I reach for
+
+`TypeScript` · `React` · `Next.js` · `Python` · `Tailwind CSS`
+
+## Elsewhere
+
+- Portfolio: **[jakedewar.com](https://jakedewar.com)**
+- Current project: **[currently.team](https://currently.team)**
